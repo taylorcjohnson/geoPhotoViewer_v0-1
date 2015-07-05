@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<collection>
+	<image>
+		<name>The 2014 high-flow experimental release from Glen Canyon Dam</name>
+		<caption>The following images show changes at selected sandbar monitoring sites along the Colorado River in Marble Canyon and Grand Canyon <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="22-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1833R_20141117_1558_full.jpg</url>
+		<site>22-Mile</site>
+	</image>
+	<image>
+		<name>The 2014 high-flow experimental release from Glen Canyon Dam</name>
+		<caption>The high flow had a peak discharge of 38,500 cubic feet per second and lasted from Nov. 10 to Nov. 16, 2014 <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/LeesFerryGage2014HFE.gif</url>
+		<site>22-Mile</site>
+	</image>
+	<image>
+		<name>Cathedral (RM 2.5L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0025L_20141109_1500.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Cathedral">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0025L_20141109_1500_full.jpg</url>
+		<site>Cathedral</site>
+	</image>
+	<image>
+		<name>Cathedral (RM 2.5L), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0025L_20141116_1500.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Cathedral">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0025L_20141116_1500_full.jpg</url>
+		<site>Cathedral</site>
+	</image>
+	<image>
+		<name>Jackass (RM 8.1L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0081L_20141109_0958.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Jackass">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0081L_20141109_0958_full.jpg</url>
+		<site>Jackass</site>
+	</image>
+	<image>
+		<name>Jackass (RM 8.1L), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0081L_20141116_0958.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Jackass">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0081L_20141116_0958_full.jpg</url>
+		<site>Jackass</site>
+	</image>
+	<image>
+		<name>9-Mile (RM 8.9L), before 2014 high flow</name>
+		<caption>Sep. 25, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0089L_20140925_0929.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="9-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0089L_20140925_0929_full.jpg</url>
+		<site>9-Mile</site>
+	</image>
+	<image>
+		<name>9-Mile (RM 8.9L), after 2014 high flow</name>
+		<caption>Jan. 10, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0089L_20150110_1220.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="9-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0089L_20150110_1220_full.jpg</url>
+		<site>9-Mile</site>
+	</image>
+	<image>
+		<name>Hot Na Na (RM 16.6L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0166L_20141109_1559.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Hot Na Na">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0166L_20141109_1559_full.jpg</url>
+		<site>Hot Na Na</site>
+	</image>
+	<image>
+		<name>Hot Na Na (RM 16.6L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0166L_20141117_1559.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Hot Na Na">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0166L_20141117_1559_full.jpg</url>
+		<site>Hot Na Na</site>
+	</image>
+	<image>
+		<name>Lone Cedar (RM 23.5L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0235L_20141109_0959.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lone Cedar">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0235L_20141109_0959_full.jpg</url>
+		<site>Lone Cedar</site>
+	</image>
+	<image>
+		<name>Lone Cedar (RM 23.5L), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0235L_20141116_0959.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lone Cedar">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0235L_20141116_0959_full.jpg</url>
+		<site>Lone Cedar</site>
+	</image>
+	<image>
+		<name>30-Mile (RM 30.7R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0307Rf_20141109_1257.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="30-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0307Rf_20141109_1257_full.jpg</url>
+		<site>30-Mile</site>
+	</image>
+	<image>
+		<name>30-Mile (RM 30.7R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0307Rf_20141117_1257.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="30-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0307Rf_20141117_1257_full.jpg</url>
+		<site>30-Mile</site>
+	</image>
+	<image>
+		<name>South Canyon (RM 31.9R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0319R_20141109_1559.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="South Canyon">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0319R_20141109_1559_full.jpg</url>
+		<site>South Canyon</site>
+	</image>
+	<image>
+		<name>South Canyon (RM 31.9R), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0319R_20141116_1559.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="South Canyon">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0319R_20141116_1559_full.jpg</url>
+		<site>South Canyon</site>
+	</image>
+	<image>
+		<name>Redwall Cavern (RM 33.3L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0333L_20141109_0957.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Redwall Cavern">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0333L_20141109_0957_full.jpg</url>
+		<site>Redwall Cavern</site>
+	</image>
+	<image>
+		<name>Redwall Cavern (RM 33.3L), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0333L_20141116_0957.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Redwall Cavern">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0333L_20141116_0957_full.jpg</url>
+		<site>Redwall Cavern</site>
+	</image>
+	<image>
+		<name>Buck Farm (RM 41.4R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0414R_20141109_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Buck Farm">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0414R_20141109_1558_full.jpg</url>
+		<site>Buck Farm</site>
+	</image>
+	<image>
+		<name>Buck Farm (RM 41.4R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0414R_20141117_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Buck Farm">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0414R_20141117_1558_full.jpg</url>
+		<site>Buck Farm</site>
+	</image>
+	<image>
+		<name>Anazazi Bridge (RM 43.4L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0434L_20141109_0759.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Anazazi Bridge">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0434L_20141109_0759_full.jpg</url>
+		<site>Anazazi Bridge</site>
+	</image>
+	<image>
+		<name>Anazazi Bridge (RM 43.4L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0434L_20141117_0759.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Anazazi Bridge">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0434L_20141117_0759_full.jpg</url>
+		<site>Anazazi Bridge</site>
+	</image>
+	<image>
+		<name>Eminence Break (RM 44.5L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0445L_20141109_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Eminence Break">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0445L_20141109_1558_full.jpg</url>
+		<site>Eminence Break</site>
+	</image>
+	<image>
+		<name>Eminence Break (RM 44.5L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0445L_20141117_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Eminence Break">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0445L_20141117_1558_full.jpg</url>
+		<site>Eminence Break</site>
+	</image>
+	<image>
+		<name>Willie Taylor (RM 45L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0450L_20141109_1557.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Willie Taylor">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0450L_20141109_1557_full.jpg</url>
+		<site>Willie Taylor</site>
+	</image>
+	<image>
+		<name>Willie Taylor (RM 45L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0450L_20141117_1556.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Willie Taylor">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0450L_20141117_1556_full.jpg</url>
+		<site>Willie Taylor</site>
+	</image>
+	<image>
+		<name>Lower Saddle (RM 47.6R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0476R_20141109_1404.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lower Saddle">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0476R_20141109_1404_full.jpg</url>
+		<site>Lower Saddle</site>
+	</image>
+	<image>
+		<name>Lower Saddle (RM 47.6R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0476R_20141117_1404.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lower Saddle">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0476R_20141117_1404_full.jpg</url>
+		<site>Lower Saddle</site>
+	</image>
+	<image>
+		<name>Dinosaur (RM 50.2R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0501R_20141109_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Dinosaur">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0501R_20141109_1558_full.jpg</url>
+		<site>Dinosaur</site>
+	</image>
+	<image>
+		<name>Dinosaur (RM 50.2R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0501R_20141117_1557.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Dinosaur">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0501R_20141117_1557_full.jpg</url>
+		<site>Dinosaur</site>
+	</image>
+	<image>
+		<name>51-Mile (RM 51.5R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0515L_20141109_1559.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="51-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0515L_20141109_1559_full.jpg</url>
+		<site>51-Mile</site>
+	</image>
+	<image>
+		<name>51-Mile (RM 51.5R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0515L_20141117_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="51-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0515L_20141117_1558_full.jpg</url>
+		<site>51-Mile</site>
+	</image>
+	<image>
+		<name>Kwagunt Marsh (RM 55.9R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0559R_20141109_1600.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Kwagunt Marsh">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0559R_20141109_1600_full.jpg</url>
+		<site>Kwagunt Marsh</site>
+	</image>
+	<image>
+		<name>Kwagunt Marsh (RM 55.9R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0559R_20141117_1600.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Kwagunt Marsh">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0559R_20141117_1600_full.jpg</url>
+		<site>Kwagunt Marsh</site>
+	</image>
+	<image>
+		<name>Kwagunt Beach (RM 56.6R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0566R_20141109_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Kwagunt Beach">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0566R_20141109_1158_full.jpg</url>
+		<site>Kwagunt Beach</site>
+	</image>
+	<image>
+		<name>Kwagunt Beach (RM 57.6R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0566R_20141117_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Kwagunt Beach">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0566R_20141117_1158_full.jpg</url>
+		<site>Kwagunt Beach</site>
+	</image>
+	<image>
+		<name>Crash Canyon (RM 62.9R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0629R_20141109_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Crash Canyon">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0629R_20141109_1158_full.jpg</url>
+		<site>Crash Canyon</site>
+	</image>
+	<image>
+		<name>Crash Canyon (RM 62.9R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0629R_20141117_1157.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Crash Canyon">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0629R_20141117_1157_full.jpg</url>
+		<site>Crash Canyon</site>
+	</image>
+	<image>
+		<name>Carbon Canyon (RM 65.1R), before 2014 high flow</name>
+		<caption>Oct. 6, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0651R_20141006_1200.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Carbon Canyon">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0651R_20141006_1200_full.jpg</url>
+		<site>Carbon Canyon</site>
+	</image>
+	<image>
+		<name>Carbon Canyon (RM 65.1R), after 2014 high flow</name>
+		<caption>Jan. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0651R_20150116_1205.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Carbon Canyon">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0651R_20150116_1205_full.jpg</url>
+		<site>Carbon Canyon</site>
+	</image>
+	<image>
+		<name>Lava Chuar (RM 65.8L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0658L_20141109_0959.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lava Chuar">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0658L_20141109_0959_full.jpg</url>
+		<site>Lava Chuar</site>
+	</image>
+	<image>
+		<name>Lava Chuar (RM 65.8L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0658L_20141117_0959.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lava Chuar">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0658L_20141117_0959_full.jpg</url>
+		<site>Lava Chuar</site>
+	</image>
+	<image>
+		<name>Palisades (RM 66.1L), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0661Ld_20141109_0959.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Palisades">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0661Ld_20141109_0959_full.jpg</url>
+		<site>Palisades</site>
+	</image>
+	<image>
+		<name>Palisades (RM 66.1L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0661Ld_20141117_0959.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Palisades">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0661Ld_20141117_0959_full.jpg</url>
+		<site>Palisades</site>
+	</image>
+	<image>
+		<name>Tanner (RM 68.8R), before 2014 high flow</name>
+		<caption>Nov. 9, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0688R_20141109_1359.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Tanner">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0688R_20141109_1359_full.jpg</url>
+		<site>Tanner</site>
+	</image>
+	<image>
+		<name>Tanner (RM 68.8R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0688R_20141117_1359.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Tanner">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0688R_20141117_1359_full.jpg</url>
+		<site>Tanner</site>
+	</image>
+	<image>
+		<name>Upper Cremation (RM 87.6L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0876L_20141108_0733.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Upper Cremation">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0876L_20141108_0733_full.jpg</url>
+		<site>Upper Cremation</site>
+	</image>
+	<image>
+		<name>Upper Cremation (RM 87.6L), after 2014 high flow</name>
+		<caption>Nov. 15, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0876L_20141115_1533.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Upper Cremation">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0876L_20141115_1533_full.jpg</url>
+		<site>Upper Cremation</site>
+	</image>
+	<image>
+		<name>Above Trinity (RM 91.7R), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0917R_20141108_0959.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Above Trinity">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0917R_20141108_0959_full.jpg</url>
+		<site>Above Trinity</site>
+	</image>
+	<image>
+		<name>Above Trinity (RM 91.7R), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0917R_20141116_1159.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Above Trinity">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0917R_20141116_1159_full.jpg</url>
+		<site>Above Trinity</site>
+	</image>
+	<image>
+		<name>Granite (RM 93.8L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0938L_20141108_0759.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Granite">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0938L_20141108_0759_full.jpg</url>
+		<site>Granite</site>
+	</image>
+	<image>
+		<name>Granite (RM 93.8L), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC0938L_20141116_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Granite">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC0938L_20141116_1158_full.jpg</url>
+		<site>Granite</site>
+	</image>
+	<image>
+		<name>Emerald (RM 104.4R), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1044R_20141108_1159.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Emerald">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1044R_20141108_1159_full.jpg</url>
+		<site>Emerald</site>
+	</image>
+	<image>
+		<name>Emerald (RM 104.4R), after 2014 high flow</name>
+		<caption>Nov. 16, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1044R_20141116_1359.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Emerald">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1044R_20141116_1359_full.jpg</url>
+		<site>Emerald</site>
+	</image>
+	<image>
+		<name>Big Dune (RM 119.4R), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1194R_20141108_0759.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Big Dune">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1194R_20141108_0759_full.jpg</url>
+		<site>Big Dune</site>
+	</image>
+	<image>
+		<name>Big Dune (RM 119.4R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1194R_20141117_0758.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Big Dune">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1194R_20141117_0758_full.jpg</url>
+		<site>Big Dune</site>
+	</image>
+	<image>
+		<name>122-Mile (RM 122.7R), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1227R_20141108_0759.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="122-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1227R_20141108_0759_full.jpg</url>
+		<site>122-Mile</site>
+	</image>
+	<image>
+		<name>122-Mile (RM 122.7R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1227R_20141117_0759.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="122-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1227R_20141117_0759_full.jpg</url>
+		<site>122-Mile</site>
+	</image>
+	<image>
+		<name>Upper Forster (RM 123.2L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1233Lb_20141108_0958.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Upper Forster">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1233Lb_20141108_0958_full.jpg</url>
+		<site>Upper Forster</site>
+	</image>
+	<image>
+		<name>Upper Forster (RM 123.2L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1233Lb_20141117_0958.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Upper Forster">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1233Lb_20141117_0958_full.jpg</url>
+		<site>Upper Forster</site>
+	</image>
+	<image>
+		<name>Football Field (RM 137.7L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1377L_20141108_1157.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Football Field">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1377L_20141108_1157_full.jpg</url>
+		<site>Football Field</site>
+	</image>
+	<image>
+		<name>Football Field (RM 137.7L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1377L_20141117_1157.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Football Field">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1377L_20141117_1157_full.jpg</url>
+		<site>Football Field</site>
+	</image>
+	<image>
+		<name>Above Olo (RM 145.8L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1459L_20141108_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Above Olo">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1459L_20141108_1158_full.jpg</url>
+		<site>Above Olo</site>
+	</image>
+	<image>
+		<name>Above Olo (RM 145.8L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1459L_20141117_1157.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Above Olo">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1459L_20141117_1157_full.jpg</url>
+		<site>Above Olo</site>
+	</image>
+	<image>
+		<name>Lower National (RM 167.1L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1671L_20141108_0958.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lower National">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1671L_20141108_0958_full.jpg</url>
+		<site>Lower National</site>
+	</image>
+	<image>
+		<name>Lower National (RM 167.1L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1671L_20141117_0958.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Lower National">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1671L_20141117_0958_full.jpg</url>
+		<site>Lower National</site>
+	</image>
+	<image>
+		<name>Below Mohawk (RM 172.6L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1726Lb_20141108_1559.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Below Mohawk">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1726Lb_20141108_1559_full.jpg</url>
+		<site>Below Mohawk</site>
+	</image>
+	<image>
+		<name>Below Mohawk (RM 172.6L), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1726Lb_20141117_1559.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Below Mohawk">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1726Lb_20141117_1559_full.jpg</url>
+		<site>Below Mohawk</site>
+	</image>
+	<image>
+		<name>Below Chevron (RM 183.3R), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1833R_20141108_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Below Chevron">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1833R_20141108_1558_full.jpg</url>
+		<site>Below Chevron</site>
+	</image>
+	<image>
+		<name>Below Chevron (RM 183.3R), after 2014 high flow</name>
+		<caption>Nov. 17, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1833R_20141117_1558.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Below Chevron">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1833R_20141117_1558_full.jpg</url>
+		<site>Below Chevron</site>
+	</image>
+	<image>
+		<name>Hualapai Acres (RM 194.6L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1946L_20141108_0759.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Hualapai Acres">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1946L_20141108_0759_full.jpg</url>
+		<site>Hualapai Acres</site>
+	</image>
+	<image>
+		<name>Hualapai Acres (RM 194.6L), after 2014 high flow</name>
+		<caption>Nov. 18, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC1946L_20141118_0758.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Hualapai Acres">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC1946L_20141118_0758_full.jpg</url>
+		<site>Hualapai Acres</site>
+	</image>
+	<image>
+		<name>202-Mile (RM 202.3R), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2023R_20141108_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="202-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2023R_20141108_1158_full.jpg</url>
+		<site>202-Mile</site>
+	</image>
+	<image>
+		<name>202-Mile (RM 202.3R), after 2014 high flow</name>
+		<caption>Nov. 18, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2023R_20141118_1157.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="202-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2023R_20141118_1157_full.jpg</url>
+		<site>202-Mile</site>
+	</image>
+	<image>
+		<name>Pumpkin Springs (RM 213.2L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2133L_20141108_1359.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Pumpkin Springs">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2133L_20141108_1359_full.jpg</url>
+		<site>Pumpkin Springs</site>
+	</image>
+	<image>
+		<name>Pumpkin Springs (RM 213.2L), after 2014 high flow</name>
+		<caption>Nov. 18, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2133L_20141118_1358.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Pumpkin Springs">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2133L_20141118_1358_full.jpg</url>
+		<site>Pumpkin Springs</site>
+	</image>
+	<image>
+		<name>220-Mile (RM 220.1L), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2201L_20141108_0957.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="220-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2201L_20141108_0957_full.jpg</url>
+		<site>220-Mile</site>
+	</image>
+	<image>
+		<name>220-Mile (RM 220.1L), after 2014 high flow</name>
+		<caption>Nov. 19, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2201L_20141119_0957.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="220-Mile">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2201L_20141119_0957_full.jpg</url>
+		<site>220-Mile</site>
+	</image>
+	<image>
+		<name>Above Last Chance (RM 225.5R), before 2014 high flow</name>
+		<caption>Nov. 8, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2255Ra_20141108_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Above Last Chance">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2255Ra_20141108_1158_full.jpg</url>
+		<site>Above Last Chance</site>
+	</image>
+	<image>
+		<name>Above Last Chance (RM 225.5R), after 2014 high flow</name>
+		<caption>Nov. 19, 2014  Full Resolution Image: <a href="http://137.227.239.42/Collections/hfe2014/RC2255Ra_20141119_1158.JPG" style="color:yellow" target="_blank">Here</a> <button class="btn btn-default" id="start" data-toggle="modal" data-target="#imageModal" data-site="Above Last Chance">PHOTOS</button></caption>
+		<url>http://137.227.239.42/Collections/hfe2014/RC2255Ra_20141119_1158_full.jpg</url>
+		<site>Above Last Chance</site>
+	</image>
+</collection>

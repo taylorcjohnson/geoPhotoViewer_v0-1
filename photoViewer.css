@@ -1,0 +1,25 @@
+.btn.square {
+	border-radius: 0;
+}
+.no-gutter > [class*='col-'] {
+	padding-right:0;
+	padding-left:0;
+}
+.modal-lg.dual {
+	width:95%;
+}
+@media (max-width: 600px){
+	.carousel-caption > h4{
+		font-size: 10px;
+	}
+}
+@media (max-width: 1000px){
+	.dual .carousel-caption > h4{
+		font-size: 10px;
+	}
+}
+@media (max-width: 2000px){
+	.modal-body {
+		font-size: 10px;
+	}
+}
